@@ -46,7 +46,9 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Variables and functions.cs" />
+     <Compile Include="Assets\Variablesandfunctions.cs" />
+     <Compile Include="Assets\conventionsandsyntax.cs" />
+     <Compile Include="Assets\ifstatement.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
