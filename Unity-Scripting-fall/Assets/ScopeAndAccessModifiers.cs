@@ -32,6 +32,6 @@ public class ScopeAndAccessModifiers : MonoBehaviour
 	
 	void Update ()
 	{
-		Debug.Log("boots is set to: " + boots);
+		Debug.Log("The boot size is: " + boots);
 	}
 }

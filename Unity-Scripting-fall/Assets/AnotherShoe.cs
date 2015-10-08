@@ -4,25 +4,25 @@ using System.Collections;
 public class AnotherShoe
 {
 	public int heals;
-	public int bananas;
+	public int stiletos;
 	
 	
-	private int stapler;
-	private int sellotape;
+	private int mascara;
+	private int blush;
 	
 	
 	public void ShoeStore (int a, int b)
 	{
 		int answer;
 		answer = a + b;
-		Debug.Log("Fruit total: " + answer);
+		Debug.Log("Shoe total: " + answer);
 	}
 	
 	
-	private void OfficeSort (int a, int b)
+	private void MakeupSort (int a, int b)
 	{
 		int answer;
 		answer = a + b;
-		Debug.Log("Office Supplies total: " + answer);
+		Debug.Log("makeup total: " + answer);
 	}
 }

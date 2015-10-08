@@ -46,13 +46,13 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\AnotherShoe.cs" />
      <Compile Include="Assets\Loops\dowhileloop.cs" />
      <Compile Include="Assets\Loops\foreachloop.cs" />
      <Compile Include="Assets\Loops\forloop.cs" />
      <Compile Include="Assets\Loops\whileloop.cs" />
      <Compile Include="Assets\ScopeAndAccessModifiers.cs" />
      <Compile Include="Assets\Variablesandfunctions.cs" />
-     <Compile Include="Assets\anotherclass.cs" />
      <Compile Include="Assets\conventionsandsyntax.cs" />
      <Compile Include="Assets\conventionsandsyntaxpassoff.cs" />
      <Compile Include="Assets\ifstatement.cs" />
